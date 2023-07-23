@@ -4,6 +4,7 @@ I love building Web Apps, learning different Technologyies, and contributing to 
 
 Feel free to tailor it to your specific skills and interests. Let me know if there's anything else you need help with!
 </p>
+<img align = "center" alt="coding"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />

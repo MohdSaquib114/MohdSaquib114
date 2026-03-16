@@ -50,7 +50,6 @@ I love **problem-solving, blockchain development, and contributing to open-sourc
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?usernameMohdSaquib114)
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSaquib114&layout=compact&theme=radical' alt="Top Languages" width='45%'>
   <img src='https://github-readme-stats.vercel.app/api?username=MohdSaquib114&show_icons=true&theme=radical' alt="GitHub Stats" width='45%'>
 </div>
@@ -66,5 +65,6 @@ I love **problem-solving, blockchain development, and contributing to open-sourc
 
 </div>
 
+![](https://komarev.com/ghpvc/?usernameMohdSaquib114)
 ---
 
